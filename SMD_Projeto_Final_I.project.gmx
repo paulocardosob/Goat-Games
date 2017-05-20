@@ -30,7 +30,6 @@
       <object>objects\obj_spawnController</object>
       <object>objects\obj_destroyer</object>
       <object>objects\obj_snakeController</object>
-      <object>objects\obj_vultureController</object>
       <object>objects\obj_cactusController</object>
       <object>objects\obj_treeController</object>
       <object>objects\obj_pointsController</object>
@@ -39,7 +38,6 @@
       <object>objects\obj_obstacles</object>
       <object>objects\obj_ground</object>
       <object>objects\obj_snake</object>
-      <object>objects\obj_vulture</object>
       <object>objects\obj_cactus</object>
       <object>objects\obj_tree</object>
     </objects>
