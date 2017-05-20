@@ -7,11 +7,9 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sp_player</sprite>
-    <sprite>sprites\sp_player2</sprite>
     <sprite>sprites\sp_ground</sprite>
     <sprite>sprites\sp_destroyer</sprite>
     <sprite>sprites\sp_snake</sprite>
-    <sprite>sprites\sp_vulture</sprite>
     <sprite>sprites\sp_cactus</sprite>
     <sprite>sprites\sp_tree</sprite>
   </sprites>
@@ -30,7 +28,6 @@
       <object>objects\obj_spawnController</object>
       <object>objects\obj_destroyer</object>
       <object>objects\obj_snakeController</object>
-      <object>objects\obj_vultureController</object>
       <object>objects\obj_cactusController</object>
       <object>objects\obj_treeController</object>
       <object>objects\obj_pointsController</object>
@@ -39,7 +36,6 @@
       <object>objects\obj_obstacles</object>
       <object>objects\obj_ground</object>
       <object>objects\obj_snake</object>
-      <object>objects\obj_vulture</object>
       <object>objects\obj_cactus</object>
       <object>objects\obj_tree</object>
     </objects>
